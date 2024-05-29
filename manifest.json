@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Remove Google Ads",
+    "version": "1.0",
+    "description": "Removes sponsored ads from Google search results.",
+    "author": "Sampurna Chapagain",
+    "action":{
+        "default_popup": "src/index.html",
+        "default_title": "Latest Covid Report"
+    }
+}
